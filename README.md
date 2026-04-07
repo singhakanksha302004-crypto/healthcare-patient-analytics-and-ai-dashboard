@@ -7,3 +7,4 @@ insights:
 Predicted cost increases with longer hospital stays
 Model shows strong correlation between stay duration and cost
 Helps in forecasting hospital expenses
+ 
